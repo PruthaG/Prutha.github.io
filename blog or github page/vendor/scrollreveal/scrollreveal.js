@@ -10,30 +10,6 @@
 }(this, function(require, exports, module) {
 
 
-/////    /////    /////    /////
-/////    /////    /////    /////
-/////    /////    /////    /////
-/////    /////    /////    /////
-/////             /////    /////
-/////             /////    /////
-/////    /////    /////    /////
-/////    /////    /////    /////
-         /////    /////
-         /////    /////
-/////    /////    /////    /////
-/////    /////    /////    /////
-/////    /////    /////    /////
-/////    /////    /////    /////
-
-/**
- * ScrollReveal
- * ------------
- * Version : 3.1.4
- * Website : scrollrevealjs.org
- * Repo    : github.com/jlmakes/scrollreveal.js
- * Author  : Julian Lloyd (@jlmakes)
- */
-
 ;(function() {
     'use strict';
 
@@ -44,12 +20,6 @@
 
     this.ScrollReveal = (function() {
 
-        /**
-         * Configuration
-         * -------------
-         * This object signature can be passed directly to the ScrollReveal constructor,
-         * or as the second argument of the `reveal()` method.
-         */
 
         ScrollReveal.prototype.defaults = {
 
